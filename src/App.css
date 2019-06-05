@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.logo {
+  width: 50vmin;
+  position: relative;
+  padding: 1%;
+}
+
