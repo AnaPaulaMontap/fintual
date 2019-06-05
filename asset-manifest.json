@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fintual/static/css/main.5926b051.chunk.css",
+    "main.js": "/fintual/static/js/main.df566f3c.chunk.js",
+    "main.js.map": "/fintual/static/js/main.df566f3c.chunk.js.map",
+    "runtime~main.js": "/fintual/static/js/runtime~main.250269ab.js",
+    "runtime~main.js.map": "/fintual/static/js/runtime~main.250269ab.js.map",
+    "static/js/2.fe53e9f2.chunk.js": "/fintual/static/js/2.fe53e9f2.chunk.js",
+    "static/js/2.fe53e9f2.chunk.js.map": "/fintual/static/js/2.fe53e9f2.chunk.js.map",
+    "index.html": "/fintual/index.html",
+    "precache-manifest.f72d485793100bc3137e9748cab43533.js": "/fintual/precache-manifest.f72d485793100bc3137e9748cab43533.js",
+    "service-worker.js": "/fintual/service-worker.js",
+    "static/css/main.5926b051.chunk.css.map": "/fintual/static/css/main.5926b051.chunk.css.map",
+    "static/media/Challenge(1).png": "/fintual/static/media/Challenge(1).4144e800.png"
+  }
+}
